@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 主要使用: C++, Python, ~~Matlab~~
-- 👯 Bangumi: [Mrs4s](https://bgm.tv/user/311369)
 - 👯 Steam: [nightfury_sz]([https://steamcommunity.com/id/Mrs4s](https://steamcommunity.com/profiles/76561199016700633/))
 - 📫 有事联系: chshzhe@gmail.com
 
